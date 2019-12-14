@@ -59,12 +59,19 @@ At 0:17, a third set of coordinates appear:
 These coordinates point to S East St, Indianapolis, IN 46227, USA, once again right next to the previous sets.
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3069.515022228153!2d-86.1511796842489!3d39.705606979454004!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMznCsDQyJzIwLjIiTiA4NsKwMDgnNTYuNCJX!5e0!3m2!1sen!2sca!4v1576355616327!5m2!1sen!2sca" width="400" height="300" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
 <br>
-At 0:17, a third set of coordinates appear:
+At 2:46, a fourth set of coordinates appear:
 ```
 39.707460, -86.148993
 ```
 These coordinates point to 4002 S East St, Indianapolis, IN 46227, USA, once again right next to the previous sets.
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3069.4316049081185!2d-86.14955203082967!3d39.70748207314865!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMznCsDQyJzI2LjkiTiA4NsKwMDgnNTYuNCJX!5e0!3m2!1sen!2sca!4v1576357336597!5m2!1sen!2sca" width="400" height="300" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
+<br>
+At 2:56, a final set of coordinates appear:
+```
+39.707764, -86.149506
+```
+These coordinates point to 4002 S East St, Indianapolis, IN 46227, USA, once again right next to the previous sets.
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3069.419063454007!2d-86.15169468424885!3d39.70776397945386!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMznCsDQyJzI4LjAiTiA4NsKwMDgnNTguMiJX!5e0!3m2!1sen!2sca!4v1576358077524!5m2!1sen!2sca" width="400" height="300" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
 
 ---
 
