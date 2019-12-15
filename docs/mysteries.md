@@ -9,4 +9,4 @@ authors: ['exvacuum']
 # Outstanding Mysteries
 
 ## The Emoji Code
-See [video 5](../youtube/video-five).
+See [video 5](./youtube/video-five).
