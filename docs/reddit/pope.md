@@ -1,7 +1,7 @@
 ---
 title: The Pope
 layout: default
-nav_order: 1
+nav_order: 2
 permalink: /reddit/pope
 parent: Reddit
 authors: ['exvacuum']
@@ -22,7 +22,7 @@ authors: ['exvacuum']
 
 ---
 
-On December 14, 2019, the Reddit user [u/johndough1983](https://www.reddit.com/user/johndough1983/) created [this post](https://www.reddit.com/r/codes/comments/e41d1r/this_pope_has_10_things_he_doesnt_want_you_to/), titled: "This Pope has 10 things he doesn’t want you to find out".
+On November 30, 2019, the Reddit user [u/johndough1983](https://www.reddit.com/user/johndough1983/) created [this post](https://www.reddit.com/r/codes/comments/e41d1r/this_pope_has_10_things_he_doesnt_want_you_to/), titled: "This Pope has 10 things he doesn’t want you to find out".
 The post contained the above image, a horizontally inverted, modified version of the following image of Pope John XXIII:
 <br>
 
