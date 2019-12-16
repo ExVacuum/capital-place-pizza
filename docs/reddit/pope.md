@@ -43,6 +43,12 @@ A higher-resolution image, missing some information, was also provided to the Di
 
 <br>
 
+## Coupon Code
+Upon [Silas](http://github.com/exvacuum)' successful collection of 10 secrets, the OP responded with a comment including the following coupon code for "free garlic sticks":
+```
+the pope’s pizza
+```
+
 ## Visible Secrets
 The first few secrets can be found with the naked eye. The first step. however, is to horizontally flip the image:
 <br>
