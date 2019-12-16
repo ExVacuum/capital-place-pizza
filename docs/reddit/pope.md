@@ -18,7 +18,10 @@ authors: ['exvacuum']
 <br>
 
 **Figure A: The Image Posted**
-<br><br>
+<br>
+
+---
+
 On December 14, 2019, the Reddit user [u/johndough1983](https://www.reddit.com/user/johndough1983/) created [this post](https://www.reddit.com/r/codes/comments/e41d1r/this_pope_has_10_things_he_doesnt_want_you_to/), titled: "This Pope has 10 things he doesn’t want you to find out".
 The post contained the above image, a horizontally inverted, modified version of the following image of Pope John XXIII:
 <br>
@@ -33,6 +36,8 @@ The post contained the above image, a horizontally inverted, modified version of
 **Figure B: The original image**
 <br>
 
+---
+
 A higher-resolution image, missing some information, was also provided to the Discord by user John4-16 (Jon Doe):
 <br>
 
@@ -42,6 +47,8 @@ A higher-resolution image, missing some information, was also provided to the Di
 {:width="500px"}
 
 <br>
+
+---
 
 ## Coupon Code
 Upon [Silas](http://github.com/exvacuum)' successful collection of 10 secrets, the OP responded with a comment including the following coupon code for "free garlic sticks":
