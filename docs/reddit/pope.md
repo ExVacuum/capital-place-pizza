@@ -264,7 +264,7 @@ When decoded from morse, this form the string: `V3KPQLO`. The corresponding Tiny
 ---
 
 ### 12. Divide Image
-The next secret was discovered by accident when applying a divide color mode to the overlain images, and applying a levels filter:
+The next secret was discovered by accident when applying a divide blending mode to the overlain images, and applying a levels filter:
 <br>
 
 ![divide]
