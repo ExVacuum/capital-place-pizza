@@ -7,7 +7,7 @@ parent: Reddit
 authors: ['exvacuum']
 ---
 
-# The Pepperoni
+# The QR Code
 <br>
 
 ![original]
