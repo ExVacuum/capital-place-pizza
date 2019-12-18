@@ -3,6 +3,7 @@ title: "Halo"
 permalink: /lore/characters/halo
 layout: default
 parent: Characters
+grand_parent: Lore
 authors: ['exvacuum']
 ---
 

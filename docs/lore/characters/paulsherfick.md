@@ -3,6 +3,7 @@ title: "Paul Sherfick"
 permalink: /lore/characters/paul
 layout: default
 parent: Characters
+grand_parent: Lore
 authors: ['exvacuum']
 ---
 

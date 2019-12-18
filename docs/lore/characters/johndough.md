@@ -3,6 +3,7 @@ title: "John Dough"
 permalink: /lore/characters/john
 layout: default
 parent: Characters
+grand_parent: Lore
 authors: ['exvacuum']
 ---
 

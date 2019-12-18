@@ -3,6 +3,7 @@ title: "David Bisard"
 permalink: /lore/characters/david
 layout: default
 parent: Characters
+grand_parent: Lore
 authors: ['exvacuum']
 ---
 

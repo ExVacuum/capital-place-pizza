@@ -3,6 +3,7 @@ title: "Capital Place Pizza"
 permalink: /lore/organizations/cppizza
 layout: default
 parent: Organizations
+grand_parent: Lore
 authors: ['exvacuum']
 ---
 

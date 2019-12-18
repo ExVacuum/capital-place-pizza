@@ -4,6 +4,7 @@ permalink: lore/organizations/roncalli
 layout: default
 parent: Lore
 parent: Organizations
+grand_parent: Lore
 authors: ['exvacuum']
 ---
 
