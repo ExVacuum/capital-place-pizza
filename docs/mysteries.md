@@ -1,12 +1,14 @@
 ---
-title: Mysteries
-permalink: /mysteries
+title: Contribute
+permalink: /contribute
 layout: default
 nav_order: 4
 authors: ['exvacuum']
 ---
 
-# Outstanding Mysteries
+# Help us Solve This!
 
-## The Emoji Code
-See [video 5](./youtube/video-five).
+<blockquote class="trello-card">
+  <a href="https://trello.com/c/Kg0ADCQO/1-emoji-puzzle#">Trello Card</a>
+</blockquote>
+<script src="https://p.trellocdn.com/embed.min.js"></script>
