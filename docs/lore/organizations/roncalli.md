@@ -1,5 +1,5 @@
 ---
-title: "Roncalli High School"
+title: Roncalli High School
 permalink: lore/organizations/roncalli
 layout: default
 parent: Lore

@@ -1,5 +1,5 @@
 ---
-title: "Organizations"
+title: Organizations
 permalink: /lore/organizations
 layout: default
 parent: Lore

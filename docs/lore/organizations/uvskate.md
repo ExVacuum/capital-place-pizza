@@ -1,5 +1,5 @@
 ---
-title: "Ultra Violet Skate Park"
+title: Ultra Violet Skate Park
 permalink: /lore/organizations/uvskate
 layout: default
 parent: Organizations
