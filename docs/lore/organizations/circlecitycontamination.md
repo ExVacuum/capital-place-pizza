@@ -1,6 +1,6 @@
 ---
-title: "Capital Place Pizza"
-permalink: /lore/organizations/cppizza
+title: "Circle City Contamination"
+permalink: /lore/organizations/contamination
 layout: default
 parent: Organizations
 grand_parent: Lore
