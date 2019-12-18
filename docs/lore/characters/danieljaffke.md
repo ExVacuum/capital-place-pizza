@@ -1,0 +1,9 @@
+---
+title: "Daniel Jaffke"
+permalink: /lore/characters/daniel
+layout: default
+parent: Characters
+authors: ['exvacuum']
+---
+
+# This Section is WIP, Expect More Content Very Soon.
