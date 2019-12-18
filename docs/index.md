@@ -1,6 +1,7 @@
 ---
 title: "Home"
 permalink: /
+nav_order: 1
 layout: default
 authors: ['exvacuum']
 ---

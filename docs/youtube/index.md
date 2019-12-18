@@ -1,7 +1,7 @@
 ---
 title: YouTube
 layout: default
-nav_order: 2
+nav_order: 3
 permalink: /youtube
 has_children: true
 authors: ['exvacuum']
