@@ -7,4 +7,11 @@ grand_parent: Lore
 authors: ['exvacuum']
 ---
 
-# This Section is WIP, Expect More Content Very Soon.
+# Daniel Jaffke
+<br>
+![Daniel]
+
+[Daniel]: ../../assets/img/daniel.jpg
+{:width="500px"}
+<br>
+**Daniel**

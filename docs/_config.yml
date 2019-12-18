@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 remote_theme: pmarsceill/just-the-docs
-title: CPPARG Knowledge Base
+title: Capital Place Pizza ARG Knowledge Base
 email: bartsila533@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   This site is designed to serve as a repository for the knowledge gained by the community in regards to the Capital Place Pizza ARG.

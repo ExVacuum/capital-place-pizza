@@ -1,6 +1,6 @@
 ---
-title: "Pizza Pals"
-permalink: /lore/significant-things/pizza-pals
+title: "Two O'Clock Twilight"
+permalink: /lore/significant-things/2oct
 layout: default
 parent: Significant Things
 grand_parent: Lore

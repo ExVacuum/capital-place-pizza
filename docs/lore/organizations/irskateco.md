@@ -1,8 +1,8 @@
 ---
-title: "Pizza Pals"
-permalink: /lore/significant-things/pizza-pals
+title: Infrared Skate Co.
+permalink: /lore/organizations/irskateco
 layout: default
-parent: Significant Things
+parent: Organizations
 grand_parent: Lore
 authors: ['exvacuum']
 ---
