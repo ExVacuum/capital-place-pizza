@@ -7,4 +7,6 @@ has_children: true
 authors: ['exvacuum']
 ---
 
-# This Section is WIP, Expect More Content Very Soon.
+# Characters (This Section is WIP, Expect More Content Very Soon.)
+ 
+This section contains information on many of the characters, fictional or otherwise, referenced in the ARG.
