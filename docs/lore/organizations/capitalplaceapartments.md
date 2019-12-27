@@ -7,4 +7,4 @@ grand_parent: Lore
 authors: ['exvacuum']
 ---
 
-# Capital Place  Apartments
+# Capital Place Apartments
