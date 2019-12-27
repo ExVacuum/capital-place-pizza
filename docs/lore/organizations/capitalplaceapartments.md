@@ -6,3 +6,5 @@ parent: Organizations
 grand_parent: Lore
 authors: ['exvacuum']
 ---
+
+# Capital Place  Apartments
