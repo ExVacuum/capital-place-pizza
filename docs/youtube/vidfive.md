@@ -47,8 +47,33 @@ Throughout the video, the following series of animated emojis is displayed on lo
 <br><br>
 [:floppy_disk: cppemojis.zip](../assets/img/cppemojis/cppemojis.zip)
 
+Transcript:
+
+Coordinates:
+
+`0x7 1x2 2x1 1x6 0x8 2x5 1x5 2x0` :imp: `0x2 2x2` :imp: `1x6 1x10 2x3 1x7 1x4 2x2 1x5 2x9`
+
+
+Raw Emojis:
+
+![](../assets/img/cppemojis/0x7.gif) ![](../assets/img/cppemojis/1x2.gif) ![](../assets/img/cppemojis/2x1.gif) ![](../assets/img/cppemojis/1x6.gif)
+![](../assets/img/cppemojis/0x8.gif) ![](../assets/img/cppemojis/2x5.gif) ![](../assets/img/cppemojis/1x5.gif) ![](../assets/img/cppemojis/2x0.gif)
+
+:imp:
+
+![](../assets/img/cppemojis/0x2.gif) ![](../assets/img/cppemojis/2x2.gif)
+
+:imp:
+
+![](../assets/img/cppemojis/1x6.gif) ![](../assets/img/cppemojis/1x10.gif) ![](../assets/img/cppemojis/2x3.gif) ![](../assets/img/cppemojis/1x7.gif) 
+![](../assets/img/cppemojis/1x4.gif) ![](../assets/img/cppemojis/2x2.gif) ![](../assets/img/cppemojis/1x5.gif) ![](../assets/img/cppemojis/2x9.gif)
+
+In base10, the transcript is `7 14 25 18 8 29 17 24` :imp:  `2 26` :imp: `18 22 27 19 16 26 17 33`
+
+Encoded to base36 starting at the top-left corner as 0, the ciphertext reads `7EPI8THO 2Q IMRJGQHX`. Starting with A, it reads `HOZSI3RY C0 SW1TQ0R7`.
+
 The signifigance of these emojis is yet unknown, nor is any connection to the emojis found in this video's description. This issue is considered highly important. The most simple solution, given the fact that 36 emojis are presented, is a base36 system. However, attempts so far have been unsuccessful.
 
-The line of emojis that appears at the bottom of the screen over the course of the video is clearly of some importance, and any attempts at solving this are encouraged. A curious observation is that the demon emoji occurs multiple times in the bottom line, but never in the main set. A current theory is that the demon serves as a word-separating character. However, this does not explain the appearance of the scowling emoji at 0:40.
+The line of emojis that appears at the bottom of the screen over the course of the video is clearly of some importance, and any attempts at solving this are encouraged. A curious observation is that the demon emoji occurs multiple times in the bottom line, but never in the main set. A current theory is that the demon serves as a word-separating character.
 
 Another mystery regarding the emojis is the larger, eyeless emojis which begin appearing after the first display of the set.
