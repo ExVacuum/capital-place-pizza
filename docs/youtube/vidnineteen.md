@@ -25,8 +25,23 @@ When I am looking north, it's for a cause, but it's never up.
 
 ## Video Content
 
-### Joncalli
+### Heading
 
 The heading text at the bottom of the video reads "Joncalli Computer Club", an obvious nod to [Roncalli High School](../lore/organizations/roncalli), the focus of the [pope](../reddit/pope) puzzle. However, Roncalli does not have a computer club.
+
+---
+
+### Subheading
+
+The subheader contains snippets of broken text, which form the following string:
+```
+rg79gkf
+```
+
+The corresponding TinyURL link leads to the following document:
+
+<iframe src="../assets/rental.pdf" width="100%" height="500px"></iframe>
+
+It is an application for tax-exempt status for an affordable housing organization.
 
 ---
