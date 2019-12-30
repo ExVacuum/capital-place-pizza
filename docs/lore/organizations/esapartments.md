@@ -1,5 +1,5 @@
 ---
-title: "Capital Place Apartments"
+title: "Emmerson-Schnatter Apartments"
 permalink: /lore/organizations/esapartments
 layout: default
 parent: Organizations
