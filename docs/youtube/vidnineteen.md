@@ -42,7 +42,7 @@ The corresponding TinyURL link leads to the following document:
 
 <iframe src="../assets/rental.pdf" width="100%" height="500px"></iframe>
 
-It is an application for tax-exempt status for an affordable housing organization. 
+It is tax return form for an affordable housing organization. 
 The document is from the FOUNDATION FOR AFFORDABLE RENTAL HOUSING HOLDINGS INC, which is the same organization that sent the parcel mentioned in the [emails puzzle](../reddit/emails).
 
 ---
