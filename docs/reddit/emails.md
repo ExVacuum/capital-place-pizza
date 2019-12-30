@@ -65,7 +65,8 @@ Owner: FOUNDATION FOR AFFORDABLE RENTAL HOUSING INC
 
 4100 Continental Court is the street address of [Capital Place Apartments](../lore/organizations/cpapartments) in Indianapolis. 
 
-Secret 4 is the employer identification number of Farh-Lamplighter Affordable Housing Inc., mentioned in [video 19](../youtube/video-nineteen#subheading), 
+Secret 4 is the employer identification number of Farh-Lamplighter Affordable Housing Inc., mentioned in the 
+FOUNDATION FOR AFFORDABLE RENTAL HOUSING HOLDINGS INC document in [video 19](../youtube/video-nineteen#subheading), 
 located on Cumberland Parkway in Atlanta, Georgia (Secret 2).
 
 That leaves secret 1.
