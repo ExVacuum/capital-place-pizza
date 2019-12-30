@@ -38,7 +38,7 @@ The post contained the above image, a horizontally inverted, modified version of
 
 ---
 
-A higher-resolution image, missing some information, was also provided to the Discord by user John4-16 (Jon Doe):
+A higher-resolution image, missing some information, was also provided to the Discord by user John4-16 ([Jon Doe](../lore/characters/jon)):
 <br>
 
 ![highres]

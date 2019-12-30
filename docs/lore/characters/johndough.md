@@ -22,6 +22,8 @@ John owns a variety of social media accounts, including a Reddit account, a YouT
 | YouTube   | [JohnDough](https://www.youtube.com/channel/UC0Ebq-NNBboBxy1fRrRj2cA)   | ![yt]     | [YouTube](../../youtube)       |
 | Reddit    | [u/johndough1983](https://www.reddit.com/user/johndough1983/)           | ![reddit] | [Reddit](../../reddit)         |
 | Instagram | [@capitalplacepizza](https://www.instagram.com/capitalplacepizza/)      | ![insta]  | n/a                            |
+| Twitter   | [@CapitalPlPizza](https://twitter.com/CapitalPlPizza)                   | ![twtr]   | n/a                            |
+| LensDump  | [John Dough](https://lensdump.com/capitalplpizza)                       | ![ldump]  | n/a                            |
 
 [yt]:../../assets/img/unnamed.jpg
 {:width="50px"}
@@ -30,6 +32,12 @@ John owns a variety of social media accounts, including a Reddit account, a YouT
 {:width="50px"}
 
 [insta]:../../assets/img/instapp.jpg
+{:width="50px"}
+
+[twtr]:../../assets/img/w4gp6hvi_200x200.jpg
+{:width="50px"}
+
+[ldump]:../../assets/img/av_1574291103.jpg
 {:width="50px"}
 
 ## Relationship with Jon Doe
