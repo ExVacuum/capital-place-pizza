@@ -1,7 +1,7 @@
 ---
 title: The Emails
 layout: default
-nav_order: 4
+nav_order: 5
 permalink: /reddit/emails
 parent: Reddit
 authors: ['exvacuum']
