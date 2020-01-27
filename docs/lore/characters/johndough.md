@@ -28,7 +28,7 @@ John owns a variety of social media accounts, including a Reddit account, a YouT
 [yt]:../../assets/img/unnamed.jpg
 {:width="50px"}
 
-[reddit]:../../assets/img/profileIcon_ecywggnusgy31.jpg
+[reddit]:../../assets/img/profileIcon_886yhcqde7c41.jpg
 {:width="50px"}
 
 [insta]:../../assets/img/instapp.jpg
