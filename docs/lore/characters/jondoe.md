@@ -222,3 +222,67 @@ ThatOnePerson2000 notes that the music bot's nickname is set to "Gary". The conv
 It is possible that Jon is, in fact, using a machine owned by John, however this idea is not substantiated.
 - Jon thinks very poorly of John.
 - Jon wants to say more, however must wait until clear communication is possible.
+
+---
+
+### Third Conversation
+
+On the 9th of January, 2020, after a period of silence, Jon resurfaced, and the following conversation took place:
+
+```
+[9:35 PM] Jon Doe: 𝔩𝔢𝔱'𝔰 𝔰𝔢𝔢 𝔦𝔣 𝔱𝔥𝔦𝔰 𝔴𝔬𝔯𝔨𝔰
+[9:36 PM] Jon Doe: 𝔬𝔨 𝔱𝔥𝔢𝔫
+[9:36 PM] Jon Doe: 𝔱𝔥𝔢 𝔡𝔲𝔡𝔢 𝔴𝔞𝔰 𝔮𝔲𝔦𝔠𝔨 𝔱𝔬 𝔱𝔢𝔩𝔩 𝔪𝔢 𝔞𝔟𝔬𝔲𝔱 𝔱𝔥𝔦𝔰 𝔭𝔩𝔞𝔠𝔢 𝔱𝔥𝔞𝔱 𝔥𝔢 𝔰𝔞𝔦𝔡 𝔥𝔢 𝔬𝔴𝔫𝔢𝔡 𝔠𝔞𝔩𝔩𝔢𝔡 '𝔠𝔞𝔭𝔦𝔱𝔞𝔩 𝔭𝔩𝔞𝔠𝔢'
+[9:36 PM] Jon Doe: 𝔦 𝔲𝔰𝔢𝔡 𝔱𝔬 𝔰𝔨𝔞𝔱𝔢 𝔞 𝔩𝔢𝔡𝔤𝔢 𝔞𝔱 𝔱𝔥𝔢 𝔰𝔱𝔯𝔦𝔭 𝔪𝔞𝔩𝔩 𝔫𝔢𝔞𝔯𝔟𝔶
+[9:37 PM] Jon Doe: 𝔰𝔬 𝔦 𝔨𝔫𝔢𝔴 𝔦𝔱
+[9:37 PM] Jon Doe: 𝔱𝔥𝔢 𝔞𝔯𝔢𝔞 𝔥𝔞𝔡 𝔤𝔬𝔱𝔱𝔢𝔫 𝔰𝔨𝔢𝔱𝔠𝔥𝔶 𝔞𝔰 𝔣𝔲𝔠𝔨 𝔰𝔦𝔫𝔠𝔢 𝔱𝔥𝔢𝔫 𝔟𝔲𝔱 ℑ 𝔠𝔬𝔲𝔩𝔡 𝔬𝔫𝔩𝔶 𝔱𝔥𝔦𝔫𝔨 𝔞𝔟𝔬𝔲𝔱 𝔬𝔫𝔢 𝔱𝔥𝔦𝔫𝔤
+[9:37 PM] Jon Doe: 𝔫𝔬 𝔪𝔬𝔯𝔢 𝔡𝔞𝔶𝔰 𝔰𝔩𝔢𝔢𝔭𝔦𝔫𝔤 𝔦𝔫 𝔪𝔶 𝔠𝔞𝔯 𝔡𝔬𝔴𝔫𝔱𝔬𝔴𝔫
+[9:37 PM] Jon Doe: 𝔱𝔥𝔦𝔰 𝔴𝔞𝔰 𝔪𝔶 𝔴𝔞𝔶 𝔬𝔲𝔱
+[9:37 PM] Jon Doe: 𝔱𝔥𝔦𝔰 𝔴𝔞𝔰 𝔪𝔶 𝔞𝔫𝔰𝔴𝔢𝔯
+[9:39 PM] Jon Doe: 𝔥𝔢 𝔴𝔞𝔫𝔱𝔢𝔡 𝔱𝔬 𝔪𝔢𝔢𝔱 𝔪𝔢 𝔱𝔥𝔢𝔯𝔢
+[9:40 PM] Jon Doe: 𝔰𝔞𝔦𝔡 𝔱𝔥𝔢 𝔭𝔦𝔷𝔷𝔞 𝔭𝔩𝔞𝔠𝔢 𝔴𝔞𝔰 𝔲𝔠
+[9:40 PM] Jon Doe: 𝔰𝔞𝔦𝔡 𝔥𝔢 𝔠𝔬𝔲𝔩𝔡 𝔤𝔢𝔱 𝔪𝔢 𝔦𝔫𝔱𝔬 𝔞 𝔭𝔩𝔞𝔠𝔢 𝔗ℌ𝔄𝔗 𝔇𝔄𝔜
+[9:40 PM] Jon Doe: 𝔦𝔣 ℑ 𝔠𝔞𝔪𝔢 𝔱𝔥𝔯𝔬𝔲𝔤𝔥 𝔣𝔬𝔯 𝔥𝔦𝔪
+[9:41 PM] Jon Doe: 𝔰𝔬 𝔦 𝔡𝔲𝔤 𝔪𝔶 𝔟𝔢𝔰𝔱 𝔰𝔥𝔦𝔯𝔱 𝔬𝔲𝔱 𝔬𝔣 𝔱𝔥𝔢 𝔟𝔞𝔠𝔨 𝔰𝔢𝔞𝔱 𝔞𝔫𝔡 𝔥𝔢𝔞𝔡𝔢𝔡 𝔬𝔲𝔱
+[9:47 PM] ThatOnePerson2000: 𝔚𝔥𝔞𝔱 𝔥𝔞𝔭𝔭𝔢𝔫𝔢𝔡 𝔫𝔢𝔵𝔱? 𝔚𝔞𝔰 𝔱𝔥𝔢𝔯𝔢 𝔞𝔫𝔶 𝔭𝔞𝔭𝔢𝔯𝔴𝔬𝔯𝔨?
+[10:24 PM] Jon Doe: 𝔦 𝔡𝔬𝔫𝔱 𝔯𝔢𝔪𝔢𝔪𝔟𝔢𝔯
+[10:29 PM] Jon Doe: 𝔦 𝔯𝔢𝔪𝔢𝔪𝔟𝔢𝔯 𝔤𝔢𝔱𝔱𝔦𝔫𝔤 𝔡𝔯𝔢𝔰𝔰𝔢𝔡 𝔞𝔫𝔡 𝔱𝔞𝔨𝔦𝔫𝔤 𝔪𝔢𝔯𝔦𝔡𝔦𝔞𝔫
+[10:29 PM] Jon Doe: 𝔱𝔥𝔢 𝔯𝔢𝔰𝔱 𝔦𝔰 𝔡𝔞𝔯𝔨𝔫𝔢𝔰𝔰
+[10:32 PM] Jon Doe: 𝔦 𝔴𝔬𝔨𝔢 𝔲𝔭
+[10:33 PM] Jon Doe: 𝔦𝔱 𝔪𝔲𝔰𝔱 𝔥𝔞𝔳𝔢 𝔟𝔢𝔢𝔫 𝔞 𝔴𝔢𝔢𝔨 𝔩𝔞𝔱𝔢𝔯 𝔟𝔢𝔠𝔞𝔲𝔰𝔢 𝔪𝔶 𝔟𝔢𝔞𝔯𝔡 𝔥𝔞𝔡 𝔰𝔱𝔞𝔯𝔱𝔢𝔡 𝔱𝔬 𝔤𝔯𝔬𝔴
+[10:34 PM] Jon Doe: 𝔠𝔞𝔫𝔱 𝔭𝔲𝔟𝔩𝔦𝔠𝔩𝔶 𝔰𝔞𝔶 𝔱𝔥𝔦𝔫𝔤𝔰 𝔩𝔦𝔨𝔢 𝔱𝔥𝔢𝔰𝔢 𝔱𝔴𝔬 𝔱𝔥𝔦𝔫𝔤𝔰 𝔞𝔯𝔢 𝔯𝔢𝔩𝔞𝔱𝔢𝔡
+[10:35 PM] Jon Doe: 𝔦 𝔴𝔞𝔰 𝔦𝔫 𝔞 𝔯𝔬𝔬𝔪 𝔴𝔦𝔱𝔥 𝔞 𝔱𝔬𝔦𝔩𝔢𝔱 𝔞𝔫𝔡 𝔞 𝔰𝔦𝔫𝔨
+[10:38 PM] ThatOnePerson2000: 𝔚𝔞𝔰 𝔱𝔥𝔢𝔯𝔢 𝔞𝔫𝔶𝔱𝔥𝔦𝔫𝔤 𝔢𝔩𝔰𝔢 𝔦𝔫 𝔱𝔥𝔢 𝔯𝔬𝔬𝔪?
+[10:39 PM] Silas: Did you mean meridian like a diazepam injection?
+[10:43 PM] Jon Doe: 𝖓𝖔𝖙 𝖊𝖛𝖊𝖓 𝖙𝖕
+[10:43 PM] Jon Doe: 𝔧𝔲𝔰𝔱 𝔬𝔫𝔢 𝔬𝔣 𝔱𝔥𝔬𝔰𝔢 𝔣𝔯𝔢𝔫𝔠𝔥 𝔴𝔞𝔱𝔢𝔯 𝔰𝔮𝔲𝔦𝔯𝔱𝔢𝔯𝔰
+[10:44 PM] Silas: You had a bidet in your car?
+[10:45 PM] Silas: Like a portable one? That's nasty man.
+[10:46 PM] Jon Doe: 𝔱𝔥𝔞𝔫𝔨𝔶𝔬𝔲 𝔱𝔥𝔞𝔱𝔰 𝔱𝔥𝔢 𝔣𝔦𝔯𝔰𝔱 𝔱𝔦𝔪𝔢 𝔦𝔳𝔢 𝔩𝔞𝔲𝔤𝔥𝔢𝔡 𝔦𝔫 𝔴𝔢𝔢𝔨𝔰
+[10:47 PM] Jon Doe: 𝔦𝔫 𝔱𝔥𝔦𝔰 𝔯𝔬𝔬
+[10:48 PM] Silas: OH
+[10:49 PM] Silas: Yeah I should have read that lol
+[10:50 PM] Silas: Were you able to leave the room?
+```
+
+### Significance to Lore
+
+- Jon had begun speaking in fancy letters in order to overcome the keylogger.
+- John owns an apartment in the [Capital Place Apartments](../organizations/cpapartments) complex.
+- Jon has connections to Indianapolis skate culture.
+- Jon appears to suffer from some sort of anxiety disorder for which he takes medication in the form of Meridian diazepam auto-injections.
+- Jon is indeed held captive, in a room containing a sink, toilet, and bidet. This room can be seen in videos [20](../../youtube/video-twenty) and [21](../../youtube/video-twenty-one).
+- Jon's fancy-text method of communication appears to have been intervened by John, or it is possible that the batteries in the [old laptop](../../youtube/video-twenty-one#laptop-section-2) John provided him simply died.
+
+---
+
+### Jon's Escape
+ On January 31, 2020, Jon sent the following message to the CCC Discord server:
+```
+[10:42 PM] Jon Doe: I got out tonight.
+[10:42 PM] Jon Doe: I'll never eat that pizza again.
+[10:43 PM] Jon Doe: i will be back when i am feeling better
+```
+Jon has broken free from the room he was imprisoned in, as is depicted in [video 21](../../youtube/video-twenty-one) uploaded the following day.
+
+--

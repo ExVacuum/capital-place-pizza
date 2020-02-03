@@ -7,4 +7,6 @@ has_children: true
 authors: ['exvacuum']
 ---
 
-# This Section is WIP, Expect More Content Very Soon.
+# Significant Things
+
+This section contains information on miscellaneous topics that don't necessarily fit into other categories.

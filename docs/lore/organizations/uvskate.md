@@ -7,4 +7,11 @@ grand_parent: Lore
 authors: ['exvacuum']
 ---
 
-# This Section is WIP, Expect More Content Very Soon.
+# Ultra Violet Skate Park
+
+![logo]
+
+[logo]:../../assets/img/uvlogo.gif
+{:width="500px"}
+
+Ultra Violet Skate Park was an indoor skate park located in Indianapolis, and has been a recurring location of interest in the ARG, particularly in [video 17](../../youtube/video-seventeen).

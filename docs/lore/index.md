@@ -7,4 +7,5 @@ nav_order: 2
 authors: ['exvacuum']
 ---
 
-# This Section is WIP, Expect More Content Very Soon.
+# Lore
+This section contains much of the lore concerning the various [characters](characters), [organizations](organizations), and [singificant things](significant-things) surrounding the ARG. Information will be added as acquired.

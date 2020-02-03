@@ -24,7 +24,7 @@ in [the email puzzle](../../reddit/emails) and [video 19](../../youtube/video-ni
 ## Fictional Connections
 
  It is inconceivable that this apartment complex is not connected to [Capital Place Pizza](cppizza), which seems to have taken the apartments as its namesake.
- It is also likely that the fictional [Emmerson-Schnatter Apartments](esapartments) is connected to it in some way.
+ It is also likely that the fictional [Emerson-Schnatter Apartments](esapartments) is connected to it in some way.
 
 ## Notable Events
 

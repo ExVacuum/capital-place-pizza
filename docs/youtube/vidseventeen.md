@@ -66,7 +66,7 @@ Its purpose is currently unknown.
 ---
 
 ### Phone Number
-Once the pizza ad portion of the video begins, the usual phone number is visible. At the time of the video's upload, the phone number goes to Infrared.
+Once the pizza ad portion of the video begins, the usual phone number is visible. At the time of the video's upload, the phone number goes to [Infrared](../lore/organizations/irskateco).
 
 ---
 
@@ -76,5 +76,5 @@ At 0:03, the first half of a coordinate appears. The second half appears at 3:30
 39.685407, -86.157769
 ```
 
-These coordinates point to 5525 S Meridian St, Indianapolis, IN 46217, USA.
+These coordinates point to 5525 S Meridian St, Indianapolis, IN 46217, USA. Very close to the former location of [Ultra Violet Skate Park](../lore/organizations/uvskate).
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3070.411070267252!2d-86.15853874094368!3d39.68546052803346!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMznCsDQxJzA3LjUiTiA4NsKwMDknMjguMCJX!5e0!3m2!1sen!2sca!4v1576544755838!5m2!1sen!2sca" width="400" height="300" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
