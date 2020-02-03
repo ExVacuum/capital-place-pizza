@@ -1,54 +1,36 @@
 ---
-title: The Lines
+title: The Stripes
 layout: default
-nav_order: 6
-permalink: /reddit/lines
+nav_order: 7
+permalink: /reddit/stripes
 parent: Reddit
 authors: ['exvacuum']
 ---
 
-# The Lines
+# The Stripes
 <br>
 
 ![original]
 
-[original]: ../assets/img/linespost.jpg
+[original]: ../assets/img/stripespost.jpg
 {:width="500px"}
 
 <br>
 **Figure A: The image posted**
 <br>
-On December 31, 2019, the Reddit user [u/johndough1983](https://www.reddit.com/user/johndough1983/) created [this post](https://www.reddit.com/r/codes/comments/eiab51/fifteen_lines_fourteen_answers_and_zero_hour_calls/), titled: "Fifteen lines, fourteen answers, and zero hour calls".
+
+On January 21, 2020, the Reddit user [u/johndough1983](https://www.reddit.com/user/johndough1983/) created [this post](https://www.reddit.com/r/codes/comments/erzkcm/13_things_hidden_inside_13_stripes/), titled: "13 Things Hidden Inside 13 Stripes". 
+[Another Post](https://www.reddit.com/r/ARG/comments/es2cq0/google_adam_driver_rebukes_chastened_historian/) was made that had the alternate title: "Google Adam Driver Rebukes Chastened Historian With Hidden History".
 The post contained the above image.
 
-Meanwhile, on #the-computer channel of the [Circle City Contamination Discord server](https://discord.gg/Uv2V7Ps), the following "clean" version of the image was posted:
+Meanwhile, on #the-computer channel of the [Circle City Contamination Discord server](https://discord.gg/Uv2V7Ps), the following alternate version of the image was posted:
 <br>
 
-![clean]
+![inverted]
 
-[clean]: ../assets/img/linesclean.jpg
+[inverted]: ../assets/img/2019-12-17_14_10_28-Video_5_-_CPPARG_Knowledge_Base.png
 {:width="500px"}
 
-## Transcript
-
-```
-5byh48w 
-4wxd5pv 
-ekt7sft 
-zjpr3f3 
-s8w4m5b 
-3tbu5yv 
-y3y46wv 
-qhfor4t 
-
-6u28clv 
-26uk9bw 
-qeu6rm2 
-wsfg5sz 
-pozqnll 
-fjvds3y
-
-66-632156-664134
-```
+This image had a strange filename: "2019-12-17_14_10_28-Video_5_-_CPPARG_Knowledge_Base" which references the [video 5](../youtube/video-five) page on this very site.
 
 No solution has be discovered so far. See [#lines](https://discord.gg/wZ5DaPJ) in the Discord server for more information.
