@@ -17,7 +17,7 @@ This section contains information on many of the organizations, fictional or oth
 </summary>
 <br>
 
-<img src=../assets/img/favicon.png" style="width:250px">
+<img src="../assets/img/favicon.png" style="width:250px">
 <br>
 
 <p>Capital Place Pizza is a fictional pizza place based in Indianapolis, and one of the main locations of interest in the ARG. 
@@ -36,7 +36,7 @@ as well as the apparent relevance of events surrounding Papa John&#39;s, such as
 </summary>
 <br>
 
-<img src=../assets/img/ccclogoupscaled.png" style="width:250px">
+<img src="../assets/img/ccclogoupscaled.png" style="width:250px">
 <br>
 
 Circle City Contamination is a mysterious secret organization committed to exposing &quot;urban contamination in the circle city&quot;. Little is known about this organization, other than what has been revealed through the <a href="https://discord.gg/NPpWCf7">Discord Server</a>.
@@ -47,7 +47,7 @@ Circle City Contamination is a mysterious secret organization committed to expos
 <h3 >Failure Protocol</h3>
 <hr>
 
-<iframe src=../assets/failure-protocol-001-smol.pdf" width="100%" height="500px"></iframe>
+<iframe src="../assets/failure-protocol-001-smol.pdf" width="100%" height="500px"></iframe>
 
 <h3> Decontamination Protocol </h3>
 <hr>
@@ -174,7 +174,7 @@ We invite you to do the same.<br>
 </summary>
 <br>
 
-<img src=../assets/img/eslogoupscaled.png" style="width: 250px;">
+<img src="../assets/img/eslogoupscaled.png" style="width: 250px;">
 <br>
 
 Emerson-Schnatter Apartments is a fictional apartment complex located in Indianapolis. Little is currently known about this organization.
@@ -189,7 +189,7 @@ Emerson-Schnatter Apartments is a fictional apartment complex located in Indiana
 </summary>
 <br>
 
-<img src=../assets/img/irlogo.png" style="width: 250px;">
+<img src="../assets/img/irlogo.png" style="width: 250px;">
 
 <p>Infrared skate company is a fictional skate company, presumably based out of Indianapolis. The significance of this organization is currently unknown, however it
 is likely that Infrared is connected in some way to the previously active <a href="uvskate">Ultra Violet Skatepark</a> in Indianapolis.</p>
@@ -208,7 +208,7 @@ is likely that Infrared is connected in some way to the previously active <a hre
 </summary>
 <br>
 
-<img src=../assets/img/cpapartmentsheader.jpg" style="width: 500px">
+<img src="../assets/img/cpapartmentsheader.jpg" style="width: 500px">
 <br>
 <p>Capital Place Apartments is an apartment complex located in Indianapolis, a source of many controversies
 and a recurring point of interest to the lore of the game. </p>
@@ -239,7 +239,7 @@ in <a href="../../reddit/emails">the email puzzle</a> and <a href="../../youtube
 </summary>
 <br>
 
-<img src=../assets/img/roncalli.jpg" style="width: 500px">
+<img src="../assets/img/roncalli.jpg" style="width: 500px">
 <br>
 Roncalli High School is a Catholic High School located near the University Heights area of Indianapolis. It was the main location of interest of <a href="../../reddit/pope">the Pope</a> steganographic puzzle.
 
@@ -253,7 +253,7 @@ Roncalli High School is a Catholic High School located near the University Heigh
 </summary>
 <br>
 
-<img src=../assets/img/uvlogo.gif" style="width: 500px;">
+<img src="../assets/img/uvlogo.gif" style="width: 500px;">
 <br>
 Ultra Violet Skate Park was an indoor skate park located in Indianapolis, and has been a recurring location of interest in the ARG, particularly in <a href="../../youtube/video-seventeen">video 17</a>.
 </details>

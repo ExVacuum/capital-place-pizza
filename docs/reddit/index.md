@@ -415,13 +415,13 @@ fjvds3y
 <b style="font-weight:600; ">The Stripes</b>
 </summary>
 <br>
-<p><img src=../assets/img/stripespost.jpg" alt="original" style="width: 100%;"></p>
+<p><img src="../assets/img/stripespost.jpg" alt="original" style="width: 100%;"></p>
 <p><strong>Figure A: The image posted</strong></p>
 <p>On January 21, 2020, the Reddit user <a href="https://www.reddit.com/user/johndough1983/">u/johndough1983</a> created <a href="https://www.reddit.com/r/codes/comments/erzkcm/13_things_hidden_inside_13_stripes/">this post</a>, titled: &quot;13 Things Hidden Inside 13 Stripes&quot;. 
 <a href="https://www.reddit.com/r/ARG/comments/es2cq0/google_adam_driver_rebukes_chastened_historian/">Another Post</a> was made that had the alternate title: &quot;Google Adam Driver Rebukes Chastened Historian With Hidden History&quot;.
 The post contained the above image.</p>
 <p>Meanwhile, on #the-computer channel of the <a href="https://discord.gg/Uv2V7Ps">Circle City Contamination Discord server</a>, the following alternate version of the image was posted:</p>
-<p><img src=../assets/img/2019-12-17_14_10_28-Video_5_-_CPPARG_Knowledge_Base.png" alt="inverted" style="width: 500px;"></p>
+<p><img src="../assets/img/2019-12-17_14_10_28-Video_5_-_CPPARG_Knowledge_Base.png" alt="inverted" style="width: 500px;"></p>
 <p>This image had a strange filename: &quot;2019-12-17_14_10_28-Video<em>5</em>-_CPPARG_Knowledge_Base&quot; which references the <a href="../youtube/video-five">video 5</a> page on this very site.</p>
 <p>No solution has be discovered so far. See <a href="https://discord.gg/wZ5DaPJ">#lines</a> in the Discord server for more information.</p>
 

@@ -42,31 +42,31 @@ John operates a variety of social media accounts, including a Reddit account, a 
 <tr>
 <td style="text-align:center">YouTube</td>
 <td style="text-align:center"><a href="https://www.youtube.com/channel/UC0Ebq-NNBboBxy1fRrRj2cA">JohnDough</a></td>
-<td style="text-align:center"><img src=../assets/img/unnamed.jpg" style="width: 50px"></td>
+<td style="text-align:center"><img src="../assets/img/unnamed.jpg" style="width: 50px"></td>
 <td style="text-align:center"><a href="../../youtube">YouTube</a></td>
 </tr>
 <tr>
 <td style="text-align:center">Reddit</td>
 <td style="text-align:center"><a href="https://www.reddit.com/user/johndough1983/">u/johndough1983</a></td>
-<td style="text-align:center"><img src=../assets/img/profileIcon_886yhcqde7c41.jpg" style="width: 50px"></td>
+<td style="text-align:center"><img src="../assets/img/profileIcon_886yhcqde7c41.jpg" style="width: 50px"></td>
 <td style="text-align:center"><a href="../../reddit">Reddit</a></td>
 </tr>
 <tr>
 <td style="text-align:center">Instagram</td>
 <td style="text-align:center"><a href="https://www.instagram.com/capitalplacepizza/">@capitalplacepizza</a></td>
-<td style="text-align:center"><img src=../assets/img/instapp.jpg" style="width: 50px"></td>
+<td style="text-align:center"><img src="../assets/img/instapp.jpg" style="width: 50px"></td>
 <td style="text-align:center">n/a</td>
 </tr>
 <tr>
 <td style="text-align:center">Twitter</td>
 <td style="text-align:center"><a href="https://twitter.com/CapitalPlPizza">@CapitalPlPizza</a></td>
-<td style="text-align:center"><img src=../assets/img/w4gp6hvi_200x200.jpg" style="width: 50px"></td>
+<td style="text-align:center"><img src="../assets/img/w4gp6hvi_200x200.jpg" style="width: 50px"></td>
 <td style="text-align:center">n/a</td>
 </tr>
 <tr>
 <td style="text-align:center">LensDump</td>
 <td style="text-align:center"><a href="https://lensdump.com/capitalplpizza">John Dough</a></td>
-<td style="text-align:center"><img src=../assets/img/av_1574291103.jpg" style="width: 50px"></td>
+<td style="text-align:center"><img src="../assets/img/av_1574291103.jpg" style="width: 50px"></td>
 <td style="text-align:center">n/a</td>
 </tr>
 </tbody>
@@ -87,7 +87,7 @@ See page: <a href="#jon">Jon Doe</a>.
 </summary>
 <br>
 
-<img src=../assets/img/doepp.png" style="width: 250px">
+<img src="../assets/img/doepp.png" style="width: 250px">
 <br>
 <b>Jon Doe's Discord Profile Picture</b>
 
@@ -486,7 +486,7 @@ Jon has broken free from the room he was imprisoned in, as is depicted in <a hre
 </summary>
 <br>
 
-<img src=../assets/img/daniel.jpg" style="width: 500px">
+<img src="../assets/img/daniel.jpg" style="width: 500px">
 <br>
 <strong>Daniel</strong>
 <h2 id="bio">Bio</h2>
@@ -510,7 +510,7 @@ Daniel&#39;s family continues to hold a grudge against John Schnatter to this da
 </summary>
 <br>
 
-<img src=../assets/img/bisard.jpg" style="width: 500px">
+<img src="../assets/img/bisard.jpg" style="width: 500px">
 <br>
 David Bisard, Allen County Courthouse, May 9 2013
 
@@ -527,7 +527,7 @@ David Bisard is an ex-officer of the Indianapolis Metropolitan Police Department
 <b style="font-weight:600; ">Paul Sherfick</b>
 </summary>
 <br>
-<p><img src=../assets/img/sherfick.jpg" alt="paul" style="width: 500px;"></p>
+<p><img src="../assets/img/sherfick.jpg" alt="paul" style="width: 500px;"></p>
 <h2 >Bio</h2>
 <hr>
 Paul Sherfick was a 29 year-old musician in Indianapolis, and a member of <em>The Dudes of Lord</em>. He died April 23, 2010 after supposedly robbing a bank, armed with an AK-47. Sherfick was killed by abdominal bullet wounds fired by IMPD officers, as well as a self-inflicted gunshot wound to the head. Involved in the shootout was <a href="#david">David Bisard</a>, who within a month of the shootout recieved 2 psychiatric debriefings. Bisard would go on to kill a motorcyclist in a collision while DUI.
