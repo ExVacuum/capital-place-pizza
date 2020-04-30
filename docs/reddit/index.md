@@ -13,7 +13,7 @@ authors: ['exvacuum']
 
 On November 8, 2019, the Reddit user [u/johndough1983](https://www.reddit.com/user/johndough1983/) was created.
 
-[Channel Profile Picture]: ../assets/img/profileIcon_886yhcqde7c41.jpg
+[Channel Profile Picture]: .../assets/img/profileIcon_886yhcqde7c41.jpg
 {:width="500px"}
 
 ## Posts
@@ -26,7 +26,7 @@ Since the creation of the account, multiple posts have been created.
 </summary>
 <br>
 
-<img src="../assets/img/upqe0fv2rzz31.jpg" alt="postimage" style="width: 100%">
+<img src=".../assets/img/upqe0fv2rzz31.jpg" alt="postimage" style="width: 100%">
 <br>
 <strong>The Image Posted</strong>
 <br>
@@ -41,17 +41,17 @@ The first few secrets can be found with the naked eye.
 <h3>1. The QR Code</h3>
 In the bottom-left corner of the image, the following QR code is clearly visible:
 <br>
-<img src="../assets/img/skaterqr.jpg" alt="qr" style="width: 250px">
+<img src=".../assets/img/skaterqr.jpg" alt="qr" style="width: 250px">
 <br>
 This code leads to a <a href="https://lensdump.com/i/skrinair-2.iLdReq">LensDump Image</a>, essentially just a high-resolution version of the posted image, lacking the QR code:
 <br>
-<img src="../assets/img/iLdReq.png" alt="hres" style="width: 500px;">
+<img src=".../assets/img/iLdReq.png" alt="hres" style="width: 500px;">
 <br>
 <hr>
 <h3>2. Faded Text</h3>
 On the right-center of the image, the following text can be seen, very faintly:
 <br>
-<img src="../assets/img/vehwqq4.png" alt="faded" style="width: 250px">
+<img src=".../assets/img/vehwqq4.png" alt="faded" style="width: 250px">
 <br>
 <code>vehwqq4</code>
 <br>
@@ -59,18 +59,18 @@ The corresponding TinyURL link leads to the following <a href="https://pxhere.co
 <br>
 It appears to be the original source image:
 <br>
-<img src="../assets/img/skateroriginal.jpg" alt="original" style="width: 500px">
+<img src=".../assets/img/skateroriginal.jpg" alt="original" style="width: 500px">
 <br>
 <hr>
 At this point, it is helpful to re-align the image&#39;s translation:
 <br>
-<img src="../assets/img/skaterreassembled.png" alt="realigned" style="width: 500px;">
+<img src=".../assets/img/skaterreassembled.png" alt="realigned" style="width: 500px;">
 <br>
 <hr>
 <h3>3. Misaligned Text</h3>
 Down the middle of the image, a column of misaligned letters can be found. Realigning them yields the following text:
 <br>
-<img src="../assets/img/skatercolumn.png" alt="column" style="width: 50px">
+<img src=".../assets/img/skatercolumn.png" alt="column" style="width: 50px">
 <br>
 <code>QKFN3CJ</code>
 <br>
@@ -79,13 +79,13 @@ The corresponding TinyURL link leads to timestamp 1:12 of <a href="https://www.y
 <h2 id="image-difference">Image Difference</h2>
 At this point it is helpful to get the difference between the high-res image, and the source image:
 <br>
-<img src="../assets/img/skaterdiff.png" alt="diff" style="width: 500px;">
+<img src=".../assets/img/skaterdiff.png" alt="diff" style="width: 500px;">
 <br>
 <hr>
 <h3>4. White Text</h3>
 Across the image, the following text is visible:
 <br>
-<img src="../assets/img/skaterwhiteletters.png" alt="whitetext" style="width: 500px;">
+<img src=".../assets/img/skaterwhiteletters.png" alt="whitetext" style="width: 500px;">
 <br>
 <code>rqyvatq</code>
 <br>
@@ -94,7 +94,7 @@ The corresponding TinyURL link redirects to the <a href="https://twitter.com/the
 <h3>5. Morse Code</h3>
 The barcode of the image translates to morse code:
 <br>
-<img src="../assets/img/skaterbarcode.png" alt="barcode" style="width: 250px;">
+<img src=".../assets/img/skaterbarcode.png" alt="barcode" style="width: 250px;">
 <br>
 <code>rqyvatq</code>
 <br>
@@ -103,7 +103,7 @@ This is the same as the previous secret, which is quite odd. We determined the o
 <h3 id="6-leftover-text">6. Leftover Text</h3>
 Once we discard the r under the trucks, and the LR on the upper trucks as a reading order indicator, we are left with the following info:
 <br>
-<img src="../assets/img/skaterleftovers.png" alt="leftover" style="width: 500px;">
+<img src=".../assets/img/skaterleftovers.png" alt="leftover" style="width: 500px;">
 <br>
 <code>XQK89Q</code>
 <br>
@@ -112,7 +112,7 @@ The corresponding TinyURL link redirects to <a href="https://myspace.com/">MySpa
 <h2 id="7-levels">7. Levels</h2>
 After modifying the levels of the difference between the original and modified images, the following text is visible:
 <br>
-<img src="../assets/img/skaterlevels.png" alt="levels" style="width: 500px;">
+<img src=".../assets/img/skaterlevels.png" alt="levels" style="width: 500px;">
 <br>
 <code>tnukqd9</code>
 <br>
@@ -137,17 +137,17 @@ regarding the early release of former IMPD officer <a href="../lore/characters/d
 <b style="font-weight:600; ">The QR Code</b>
 </summary>
 <br>
-<p><img src="../assets/img/qrjumbled.jpg" alt="original" style="width: 250px;"></p>
+<p><img src=".../assets/img/qrjumbled.jpg" alt="original" style="width: 250px;"></p>
 <strong>Figure A: The posted image</strong>
 <br><br>
 On November 27, 2019, the Reddit user <a href="https://www.reddit.com/user/johndough1983/">u/johndough1983</a> created <a href="https://www.reddit.com/r/codes/comments/e2l5o0/three_steps_to_solve_this/">this post</a>, titled: &quot;Three steps to solve this&quot;.
 The image provided was a scrambled QR code, which when reassembled looked like the following:
-<p><img src="../assets/img/qrreassembled.jpg" alt="solution" style="width: 250px;"></p>
+<p><img src=".../assets/img/qrreassembled.jpg" alt="solution" style="width: 250px;"></p>
 <strong>Figure B: Restored QR Code</strong>
 <br><br>
 This code redirects to the following PDF:
 <br>
-<iframe src="../assets/failure-protocol-001-smol.pdf" width="100%" height="500px"></iframe>
+<iframe src=".../assets/failure-protocol-001-smol.pdf" width="100%" height="500px"></iframe>
 </details>
 
 ---
@@ -157,20 +157,20 @@ This code redirects to the following PDF:
 <b style="font-weight:600; ">The Pope</b>
 </summary>
 <br>
-<p><img src="../assets/img/popepostreddit.jpg" alt="postimage" style="width: 500px"></p>
+<p><img src=".../assets/img/popepostreddit.jpg" alt="postimage" style="width: 500px"></p>
 <p><strong>The Image Posted</strong>
 <br></p>
 <hr>
 <p>On November 30, 2019, the Reddit user <a href="https://www.reddit.com/user/johndough1983/">u/johndough1983</a> created <a href="https://www.reddit.com/r/codes/comments/e41d1r/this_pope_has_10_things_he_doesnt_want_you_to/">this post</a>, titled: &quot;This Pope has 10 things he doesn’t want you to find out&quot;.
 The post contained the above image, a horizontally inverted, modified version of the following image of Pope John XXIII:
 <br></p>
-<p><img src="../assets/img/popeoriginal.jpg" alt="original" style="width: 500px"></p>
+<p><img src=".../assets/img/popeoriginal.jpg" alt="original" style="width: 500px"></p>
 <p><strong>The original image</strong>
 <br></p>
 <hr>
 <p>A higher-resolution image, missing some information, was also provided to the Discord by user John4-16 (<a href="../lore/characters/jon">Jon Doe</a>):
 <br></p>
-<p><img src="../assets/img/popepostflipped.jpg" alt="highres" style="width: 500px;"></p>
+<p><img src=".../assets/img/popepostflipped.jpg" alt="highres" style="width: 500px;"></p>
 <p><br></p>
 <hr>
 <h2>Coupon Code</h2>
@@ -181,42 +181,42 @@ The post contained the above image, a horizontally inverted, modified version of
 <h2 >Visible Secrets</h2>
 <p>The first few secrets can be found with the naked eye. The first step. however, is to horizontally flip the image:
 <br></p>
-<p><img src="../assets/img/popepostredditflip.jpg" alt="flipped" style="width: 500px"></p>
+<p><img src=".../assets/img/popepostredditflip.jpg" alt="flipped" style="width: 500px"></p>
 <p><br></p>
 <h3 >1. The QR Code</h3>
 <p>In the top-right corner of the image, the following QR code is clearly visible:
 <br></p>
-<p><img src="../assets/img/popepostqr.jpg" alt="qr" style="width: 250px;"></p>
+<p><img src=".../assets/img/popepostqr.jpg" alt="qr" style="width: 250px;"></p>
 <p>This code leads to a <a href="http://www.dailyjournal.net/2019/11/09/roncalli_football_claims_sectional_championship/">Daily Journal article</a> about the success of the <a href="https://www.roncalli.org/">Roncalli High School</a> football team. Roncalli High School is a Catholic secondary school in Indianapolis.</p>
 <hr>
 <h3 >2. Edge Text</h3>
 <p>The vertical edges of this image each contain half of a string of text, which when assembled form <code>umjpwk2</code>:
 <br></p>
-<p><img src="../assets/img/popepostedges.jpg" alt="edges" style="width: 250px;"></p>
+<p><img src=".../assets/img/popepostedges.jpg" alt="edges" style="width: 250px;"></p>
 <p>The corresponding TinyURL link leads to a <a href="https://www.thedailybeast.com/indiana-high-school-football-players-bullied-and-abused-roncalli-student-with-down-syndrome-his-mom-claims">Daily Beast article</a> regarding the abuse of a Roncalli High School football team manger with Down Syndrome by team members.</p>
 <hr>
 <h3 >3. Barcode</h3>
 <p>The barcode that runs along the bottom of the image was revealed by the Discord user John4-16 (who was later revealed to be Jon Doe) to be a repeating sequence: <code>- .--. ...-- ..... ----- --.. -.</code>:
 <br></p>
-<p><img src="../assets/img/popepostbarcode.jpg" alt="barcode" style="width: 500px;"></p>
+<p><img src=".../assets/img/popepostbarcode.jpg" alt="barcode" style="width: 500px;"></p>
 <p>This, when converted from morse code, creates the string <code>tp350zn</code>. The corresponding TinyURL link leads to a <a href="https://fox59.com/2019/10/25/suspended-priest-faces-3-felony-charges-in-sex-abuse-case-involving-minor/">Fox 59 article</a> regarding sexual abuse charges being faced by a chaplain at Roncalli High School.</p>
 <hr>
 <h3 >4. Numbering Under QR Code</h3>
 <p>The following numbering under the QR code is only present in the Reddit image:</p>
-<p><img src="../assets/img/popepostnums.jpg" alt="nums" style="width: 500px;"></p>
+<p><img src=".../assets/img/popepostnums.jpg" alt="nums" style="width: 500px;"></p>
 <p>The numbers read <code>19 01 25 12 05 12 14</code>, which when reverted from a A1Z26 substitution cipher reads: <code>SAYLELN</code>. The corresponding TinyURL link leads to an <a href="https://www.theindychannel.com/news/politics/proposal-to-block-state-funding-from-roncalli-over-counselor-controversy-fails">RTV6 article</a> regarding a proposal to block state funding to Roncalli High School due to religious discrimination against an LGBT faculty member.</p>
 <hr>
 <h3 id="5-wingdings">5. Wingdings</h3>
 <p>In the Reddit image, very low-resolution wingdings appear on the Pope&#39;s head:</p>
-<p><img src="../assets/img/popepostwingdings.jpg" alt="wingdings" style="width: 50px;"></p>
+<p><img src=".../assets/img/popepostwingdings.jpg" alt="wingdings" style="width: 50px;"></p>
 <p>Unfortunately, these do not appear in the high-resolution image. However, after careful analysis the text was found to read <code>v3jrqjp</code>. The corresponding TinyURL link leads to an <a href="https://www.indystar.com/story/news/2019/02/12/roncalli-high-school-chaplain-suspended-amid-sex-abuse-allegation/2853350002/">Indy Star article</a> regarding the previously mentioned allegations against the Roncalli High School chaplain.</p>
 <h2>Image Difference</h2>
 <p>At this point in time, in order to better search for secrets, it is helpful to get the difference between the high-res posted image and the original:</p>
-<p><img src="../assets/img/popepostdiff.jpg" alt="diff" style="width: 500px;"></p>
+<p><img src=".../assets/img/popepostdiff.jpg" alt="diff" style="width: 500px;"></p>
 <p>Now we are able to view almost all modifications made to the original image.</p>
 <h3 >6. Bright Lettering</h3>
 <p>The following bright lettering dots the image from left to right:</p>
-<p><img src="../assets/img/popeposbrightletters.jpg" alt="brightletters" style="width: 500px;"></p>
+<p><img src=".../assets/img/popeposbrightletters.jpg" alt="brightletters" style="width: 500px;"></p>
 <p style="background-color: rgba(207,207,207,0.93);border-radius: 5px;padding: 10px;">
 yx4exmgt
 </p>
@@ -225,7 +225,7 @@ yx4exmgt
 <hr>
 <h3>7. Red Lettering</h3>
 <p>The following red lettering runs down the side of the Pope&#39;s cloak:</p>
-<p><img src="../assets/img/popeposredletters.jpg" alt="redletters" style="width: 250px;"></p>
+<p><img src=".../assets/img/popeposredletters.jpg" alt="redletters" style="width: 250px;"></p>
 <p style="background-color: rgba(207,207,207,0.93);border-radius: 5px;padding: 10px;">
 sjzvv3k
 </p>
@@ -233,7 +233,7 @@ sjzvv3k
 <hr>
 <h3>8. Purple Text</h3>
 <p>The following text is slightly visible where the Pope&#39;s cheek would be:</p>
-<p><img src="../assets/img/popepospurpletext.jpg" alt="purpletext" style="width: 250px;"></p>
+<p><img src=".../assets/img/popepospurpletext.jpg" alt="purpletext" style="width: 250px;"></p>
 <p style="background-color: rgba(207,207,207,0.93);border-radius: 5px;padding: 10px;">
 v48oa54
 </p>
@@ -241,7 +241,7 @@ v48oa54
 <hr>
 <h3>9. Red Text</h3>
 <p>The following text is slightly visible on the edge of where the Pope&#39;s coat would be:</p>
-<p><img src="../assets/img/popepostredtext.jpg" alt="redtext" style="width: 250px;"></p>
+<p><img src=".../assets/img/popepostredtext.jpg" alt="redtext" style="width: 250px;"></p>
 <p style="background-color: rgba(207,207,207,0.93);border-radius: 5px;padding: 10px;">
 slehfk3
 </p>
@@ -249,7 +249,7 @@ slehfk3
 <hr>
 <h3>10. Red Morse</h3>
 <p>On the inside of where the Pope&#39;s cloak would be, the following morse code appears:</p>
-<p><img src="../assets/img/popepostredmorse.jpg" alt="redmorse" style="width: 250px;"></p>
+<p><img src=".../assets/img/popepostredmorse.jpg" alt="redmorse" style="width: 250px;"></p>
 <p>Unfortunately, due to the inconsistent spacing of the dits and dahs, a lot of trial and error was involved in forming the following transcript:</p>
 <p style="background-color: rgba(207,207,207,0.93);border-radius: 5px;padding: 10px;">
 ..- . --... .. -- -.. -...
@@ -258,7 +258,7 @@ slehfk3
 <hr>
 <h3>11. White Morse</h3>
 <p>In the top-left quadrant of the image, a white morse sequence can be seen:</p>
-<p><img src="../assets/img/popepostwhitemorse.jpg" alt="whitemorse" style="width: 250px;"></p>
+<p><img src=".../assets/img/popepostwhitemorse.jpg" alt="whitemorse" style="width: 250px;"></p>
 <p>This sequence was thought to be a red herring once ten secrets had been uncovered. However, Discord user John4-16 (Jon Doe) was able to provide a transcript of the sequence:</p>
 <p style="background-color: rgba(207,207,207,0.93);border-radius: 5px;padding: 10px;">
 ..<span class="hljs-selector-class">.-</span> ..<span class="hljs-selector-class">.--</span> <span class="hljs-selector-tag">-</span><span class="hljs-selector-class">.-</span> <span class="hljs-selector-class">.--</span>. <span class="hljs-selector-tag">--</span><span class="hljs-selector-class">.-</span> <span class="hljs-selector-class">.-</span>.. <span class="hljs-selector-tag">---</span>
@@ -267,7 +267,7 @@ slehfk3
 <hr>
 <h3>12. Divide Image</h3>
 <p>The next secret was discovered by accident when applying a divide blending mode to the overlain images, and applying a levels filter:</p>
-<p><img src="../assets/img/popepostdivide.jpg" alt="divide" style="width: 500px;"></p>
+<p><img src=".../assets/img/popepostdivide.jpg" alt="divide" style="width: 500px;"></p>
 <p style="background-color: rgba(207,207,207,0.93);border-radius: 5px;padding: 10px;">
 st<span class="hljs-number">6</span><span class="hljs-symbol">nsx4</span>
 </p>
@@ -282,15 +282,15 @@ st<span class="hljs-number">6</span><span class="hljs-symbol">nsx4</span>
 <b style="font-weight:600; ">The Pepperoni</b>
 </summary>
 <br>
-<p><img src="../assets/img/Pepperoni_Slice.jpg" alt="original" style="width: 250px;"></p>
+<p><img src=".../assets/img/Pepperoni_Slice.jpg" alt="original" style="width: 250px;"></p>
 <strong>Figure A: The original JPEG</strong>
-<p><img src="../assets/img/pepperoni.png" alt="altered" style="width: 250px;"></p>
+<p><img src=".../assets/img/pepperoni.png" alt="altered" style="width: 250px;"></p>
 <strong>Figure B: The &quot;identical&quot; PNG</strong>
 <br><br>
 On December 14, 2019, the Reddit user <a href="https://www.reddit.com/user/johndough1983/">u/johndough1983</a> created <a href="https://www.reddit.com/r/codes/comments/ea93ld/whats_behind_this_pepperoni/">this post</a>, titled: &quot;What’s behind this pepperoni?&quot;.
 Attached in the transcript was the two images pictured above. Though these images look identical on the surface, messing around in an image manipulation program may quickly reveal a hidden steganographic message. Improper placement of the slightly smaller png creates a large amount of nonsense over the large pepperoni. However, if placed correctly, the image should now look something like this:
 <br><br>
-<p><img src="../assets/img/LNyNQM4.png" alt="solution" style="width: 250px;"></p>
+<p><img src=".../assets/img/LNyNQM4.png" alt="solution" style="width: 250px;"></p>
 <strong>Figure C: Difference Between the Two Images, with a Photoshop Levels Layer on Top. (Courtesy of Hooptooth)</strong>
 <br><br>
 The message appears to read: <code>KEY STROKE LOG</code>
@@ -312,7 +312,7 @@ The message appears to read: <code>KEY STROKE LOG</code>
 <b style="font-weight:600; ">The Emails</b>
 </summary>
 <br>
-<p><img src="../assets/img/fppo45lgjo741.jpg" alt="postimage" style="width: 100%"></p>
+<p><img src=".../assets/img/fppo45lgjo741.jpg" alt="postimage" style="width: 100%"></p>
 <p><strong>The Image Posted</strong></p>
 <hr>
 <p>On December 29, 2019, the Reddit user <a href="https://www.reddit.com/user/johndough1983/">u/johndough1983</a> created <a href="https://www.reddit.com/r/codes/comments/ehfitq/six_things_hidden_between_the_lines_of_this_basic/">this post</a>, titled: &quot;Six things hidden between the lines of this basic job application&quot;.
@@ -321,7 +321,7 @@ The post contained the above image.
 <hr>
 <h2>Revealing the Secrets</h2>
 <p>Pretty much all the hidden text in this image can be revealed using the rectangular marquee tool and auto contrast:</p>
-<p><img src="../assets/img/piza-place-appmod.png" alt="revealed" style="width: 100%"></p>
+<p><img src=".../assets/img/piza-place-appmod.png" alt="revealed" style="width: 100%"></p>
 <h3 id="the-secrets">The Secrets</h3>
 <p style="background-color: rgba(207,207,207,0.93);border-radius: 5px;padding: 10px;">
 <span class="hljs-number">1.</span> $<span class="hljs-number">26</span>,<span class="hljs-number">600</span>,<span class="hljs-number">00</span> aggregate principal amount of city of nd variable rate mf housing revenue bonds
@@ -363,14 +363,14 @@ located on Cumberland Parkway in Atlanta, Georgia (Secret 2).</p>
 </summary>
 <br>
 
-<p><img src="../assets/img/linespost.jpg" alt="original" style="width: 100%;"></p>
+<p><img src=".../assets/img/linespost.jpg" alt="original" style="width: 100%;"></p>
 <strong>The image posted</strong>
 <br>
 On December 31, 2019, the Reddit user <a href="https://www.reddit.com/user/johndough1983/">u/johndough1983</a> created <a href="https://www.reddit.com/r/codes/comments/eiab51/fifteen_lines_fourteen_answers_and_zero_hour_calls/">this post</a>, titled: &quot;Fifteen lines, fourteen answers, and zero hour calls&quot;.
 The post contained the above image.
 <p>Meanwhile, on #the-computer channel of the <a href="https://discord.gg/Uv2V7Ps">Circle City Contamination Discord server</a>, the following &quot;clean&quot; version of the image was posted:
 <br></p>
-<p><img src="../assets/img/linesclean.jpg" alt="clean" style="width: 500px"></p>
+<p><img src=".../assets/img/linesclean.jpg" alt="clean" style="width: 500px"></p>
 <h2 id="transcript">Transcript</h2>
 <p style="background-color: rgba(207,207,207,0.93);border-radius: 5px;padding: 10px;">
 <span class="hljs-number">5</span>byh48w 
@@ -415,13 +415,13 @@ fjvds3y
 <b style="font-weight:600; ">The Stripes</b>
 </summary>
 <br>
-<p><img src="../assets/img/stripespost.jpg" alt="original" style="width: 100%;"></p>
+<p><img src=".../assets/img/stripespost.jpg" alt="original" style="width: 100%;"></p>
 <p><strong>Figure A: The image posted</strong></p>
 <p>On January 21, 2020, the Reddit user <a href="https://www.reddit.com/user/johndough1983/">u/johndough1983</a> created <a href="https://www.reddit.com/r/codes/comments/erzkcm/13_things_hidden_inside_13_stripes/">this post</a>, titled: &quot;13 Things Hidden Inside 13 Stripes&quot;. 
 <a href="https://www.reddit.com/r/ARG/comments/es2cq0/google_adam_driver_rebukes_chastened_historian/">Another Post</a> was made that had the alternate title: &quot;Google Adam Driver Rebukes Chastened Historian With Hidden History&quot;.
 The post contained the above image.</p>
 <p>Meanwhile, on #the-computer channel of the <a href="https://discord.gg/Uv2V7Ps">Circle City Contamination Discord server</a>, the following alternate version of the image was posted:</p>
-<p><img src="../assets/img/2019-12-17_14_10_28-Video_5_-_CPPARG_Knowledge_Base.png" alt="inverted" style="width: 500px;"></p>
+<p><img src=".../assets/img/2019-12-17_14_10_28-Video_5_-_CPPARG_Knowledge_Base.png" alt="inverted" style="width: 500px;"></p>
 <p>This image had a strange filename: &quot;2019-12-17_14_10_28-Video<em>5</em>-_CPPARG_Knowledge_Base&quot; which references the <a href="../youtube/video-five">video 5</a> page on this very site.</p>
 <p>No solution has be discovered so far. See <a href="https://discord.gg/wZ5DaPJ">#lines</a> in the Discord server for more information.</p>
 

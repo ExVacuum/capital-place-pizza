@@ -14,7 +14,7 @@ authors: ['exvacuum']
 
 On October 30, 2019, the YouTube channel [JohnDough](https://www.youtube.com/channel/UC0Ebq-NNBboBxy1fRrRj2cA) was created.
 
-[Channel Profile Picture]: ../assets/img/unnamed.jpg
+[Channel Profile Picture]: .../assets/img/unnamed.jpg
 
 The videos uploaded have contained information of great significance to the ARG, and even within the titles and descriptions, narratives appear to be formed (courtesy of ThatOnePerson2000):
 
@@ -372,7 +372,7 @@ This TinyURL link leads to a <a href="https://www.wthr.com/article/family-shaken
 
 At 0:05, the following QR code flashes:
 <br>
-<img src="../assets/img/vidthreeqr.png" style="width:200px;">
+<img src=".../assets/img/vidthreeqr.png" style="width:200px;">
 <br>
 This code leads to the same <a href="https://www.wthr.com/article/family-shaken-bullet-hit-newborns-crib">article</a> mentioned above.
 This code flashes again once the video colors invert.
@@ -383,11 +383,11 @@ This code flashes again once the video colors invert.
 
 Throughout the video, the following distortion appears:
 <br>
-<img src="../assets/img/vidthreebrokenurl.png" style="width:50%;">
+<img src=".../assets/img/vidthreebrokenurl.png" style="width:50%;">
 <br>
 Reading the text left to right yields a rot13-encrypted URL, which once decrypted leads to the following PDF:
 <br>
-<iframe src="../assets/interpersonal_violence_and_illicit_drug_use.pdf" width="100%" height="500px"></iframe><br><br>
+<iframe src=".../assets/interpersonal_violence_and_illicit_drug_use.pdf" width="100%" height="500px"></iframe><br><br>
 <br>
 </details>
 
@@ -518,7 +518,7 @@ Franklin Township, IN, USA
 <h3> Flashing QR Code </h3>
 At 0:40, the following QR code flashes incredibly briefly:
 <br>
-<img src="../assets/img/vidfourqr.png" style="width: 200px">
+<img src=".../assets/img/vidfourqr.png" style="width: 200px">
 <br>
 
 This QR code leads to a <a href = "https://www.wthr.com/article/family-shaken-bullet-hit-newborns-crib">WTHR Article</a> about a family concerned after a stray bullet hits their newborn's crib. This is the same article found in <a href="#video-three">video 3</a>.
@@ -529,7 +529,7 @@ This QR code leads to a <a href = "https://www.wthr.com/article/family-shaken-bu
 
 At 0:52, a TinyURL link flashes for a few frames. The link redirects to the following PDF:
 <br>
-<iframe src="../assets/interpersonal_violence_and_illicit_drug_use.pdf" width="100%" height="500px"></iframe><br><br>
+<iframe src=".../assets/interpersonal_violence_and_illicit_drug_use.pdf" width="100%" height="500px"></iframe><br><br>
 <br>
 This link is also found in <a href="#video-three">video 3</a>.
 
@@ -589,9 +589,9 @@ When one examines line 1 of the description: "Never acquiesce health.", they wil
 
 Throughout the video, the following series of animated emojis is displayed on loop:
 <br>
-<img src="../assets/img/vid5emojis.gif" style="width:50%;">
+<img src=".../assets/img/vid5emojis.gif" style="width:50%;">
 <br>
-<a href="https://github.com/exvacuum">Silas</a> has created a pack of gifs for each emoji: <a href="../assets/img/cppemojis/cppemojis.zip">cppemojis.zip</a>
+<a href="https://github.com/exvacuum">Silas</a> has created a pack of gifs for each emoji: <a href=".../assets/img/cppemojis/cppemojis.zip">cppemojis.zip</a>
 <br><br>
 Transcript:
 <br><br>
@@ -602,17 +602,17 @@ Coordinates:
 
 Raw Emojis:
 <br>
-<img src="../assets/img/cppemojis/0x7.gif"> <img src="../assets/img/cppemojis/1x2.gif"> <img src="../assets/img/cppemojis/2x1.gif"> <img src="../assets/img/cppemojis/1x6.gif">
-<img src="../assets/img/cppemojis/0x8.gif"> <img src="../assets/img/cppemojis/2x5.gif"> <img src="../assets/img/cppemojis/1x5.gif"> <img src="../assets/img/cppemojis/2x0.gif">
+<img src=".../assets/img/cppemojis/0x7.gif"> <img src=".../assets/img/cppemojis/1x2.gif"> <img src=".../assets/img/cppemojis/2x1.gif"> <img src=".../assets/img/cppemojis/1x6.gif">
+<img src=".../assets/img/cppemojis/0x8.gif"> <img src=".../assets/img/cppemojis/2x5.gif"> <img src=".../assets/img/cppemojis/1x5.gif"> <img src=".../assets/img/cppemojis/2x0.gif">
 <br><br>
 👿
 <br><br>
-<img src="../assets/img/cppemojis/0x2.gif"> <img src="../assets/img/cppemojis/2x2.gif">
+<img src=".../assets/img/cppemojis/0x2.gif"> <img src=".../assets/img/cppemojis/2x2.gif">
 <br>
 👿
 <br><br>
-<img src="../assets/img/cppemojis/1x6.gif"> <img src="../assets/img/cppemojis/1x10.gif"> <img src="../assets/img/cppemojis/2x3.gif"> <img src="../assets/img/cppemojis/1x7.gif">
-<img src="../assets/img/cppemojis/1x4.gif"> <img src="../assets/img/cppemojis/2x2.gif"> <img src="../assets/img/cppemojis/1x5.gif"> <img src="../assets/img/cppemojis/2x9.gif">
+<img src=".../assets/img/cppemojis/1x6.gif"> <img src=".../assets/img/cppemojis/1x10.gif"> <img src=".../assets/img/cppemojis/2x3.gif"> <img src=".../assets/img/cppemojis/1x7.gif">
+<img src=".../assets/img/cppemojis/1x4.gif"> <img src=".../assets/img/cppemojis/2x2.gif"> <img src=".../assets/img/cppemojis/1x5.gif"> <img src=".../assets/img/cppemojis/2x9.gif">
 <br><br>
 In base10, the transcript is <code>7 14 25 18 8 29 17 24</code> 👿  <code>2 26</code> 👿 <code>18 22 27 19 16 26 17 33</code>
 <br><br>
@@ -675,7 +675,7 @@ At 0:24, the following QR code appears for a single frame:
 
 <br>
 
-<img src="../assets/img/vidsixqr.png" style="width: 200px;">
+<img src=".../assets/img/vidsixqr.png" style="width: 200px;">
 <br>
 This leads to a <a href="https://fox59.com/2019/09/19/fentanyl-heroin-thousands-in-cash-seized-from-home-on-indys-south-side/">Fox 59 Article</a> about a drug bust that occurred in Indianapolis.
 </details>
@@ -1115,7 +1115,7 @@ no description
 Strangely, the only remarkable thing about this video is the strange audio that fades in:
 (Note: Starts quiet, quickly becomes loud.)
 <br>
-<audio controls src="../assets/andtheyWEREwillingSohecraftedafl.mp3">
+<audio controls src=".../assets/andtheyWEREwillingSohecraftedafl.mp3">
 Your browser does not support the
             <code>audio</code> element.
 </audio>
@@ -1247,7 +1247,7 @@ The corresponding TinyURL link leads to a <a href="https://www.theindychannel.co
 <h3> QR Code </h3>
 At 0:52, the following QR code appears:
 <br>
-<img src="../assets/img/vidthirteenqr.png">
+<img src=".../assets/img/vidthirteenqr.png">
 <br>
 This QR leads to a <a href = "http://www.dailyjournal.net/2019/08/12/adrian_orchards_for_sale_as_owners_look_to_retire/">Daily Journal Article</a> regarding the listing of Adrian Orchards, the property owned by the parents of the deceased George Adrian mentioned in the first article on this page.
  
@@ -2346,7 +2346,7 @@ At 13:43, the song <i>Gravity</i> by <a href="../lore/significantthings/2oct">Tw
 <h3> End Frame </h3>
 The end frames appear to contain information:
 <br>
-<img src="../assets/img/vid18end.png" style="width: 50%">
+<img src=".../assets/img/vid18end.png" style="width: 50%">
 <br>
 It's purpose is yet unknown.
 
@@ -2397,7 +2397,7 @@ rg79gkf
 
 The corresponding TinyURL link leads to the following document:
 <br>
-<iframe src="../assets/rental.pdf" width="100%" height="500px"></iframe>
+<iframe src=".../assets/rental.pdf" width="100%" height="500px"></iframe>
 <br>
 
 It is tax return form for an affordable housing organization. 
