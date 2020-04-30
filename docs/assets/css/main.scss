@@ -3,9 +3,14 @@
 ---
 @import "jekyll-theme-prologue";
 
-body {
+#mainsection {
   opacity: 0;
   transition: opacity 1s;
-  -webkit-transition: opacity 0.5s; /* Safari */
+  -webkit-transition: opacity 1s; /* Safari */
 }
 
+#loaderman {
+  opacity: 1;
+  transition: opacity 1s;
+  -webkit-transition: opacity 1s; /* Safari */
+}
