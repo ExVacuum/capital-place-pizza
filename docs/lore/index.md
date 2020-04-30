@@ -1,9 +1,9 @@
 ---
 title: Lore
 permalink: /lore/
-layout: default
-has_children: true
-nav_order: 2
+layout: page
+hide: true
+icon: fa-book
 authors: ['exvacuum']
 ---
 

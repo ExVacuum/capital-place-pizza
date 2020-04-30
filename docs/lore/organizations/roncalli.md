@@ -1,18 +1,17 @@
 ---
 title: Roncalli High School
 permalink: lore/organizations/roncalli
-layout: default
-parent: Lore
-parent: Organizations
-grand_parent: Lore
+layout: page
+hide: true
 authors: ['exvacuum']
 ---
-
-# Roncalli High School
-
-![school]
-
-[school]:../../assets/img/roncalli.jpg
-{:width="500px"}
-
-Roncalli High School is a Catholic High School located near the University Heights area of Indianapolis. It was the main location of interest of [the Pope](../../reddit/pope) steganographic puzzle.
+<html>
+<head>
+    <script type="text/javascript">
+        window.location.replace("./#roncalli");
+    </script>
+</head>
+<body>
+<p>This page has been relocated to <a href="./#roncalli">this link</a>.</p>
+</body>
+</html>

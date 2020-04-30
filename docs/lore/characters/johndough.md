@@ -1,45 +1,17 @@
 ---
 title: "John Dough"
 permalink: /lore/characters/john
-layout: default
-parent: Characters
-grand_parent: Lore
+layout: page
+hide: true
 authors: ['exvacuum']
 ---
-
-# John Dough
-
-## Bio
-
-John Dough is the president of [Capital Place Pizza](../../lore/organizations/cppizza), a newly opened pizza place in Indianapolis. Very little otherwise is known about John, except that he seems to have a compulsion to use alliteration involving the letter "P", and that he is a former employer of [Jon Doe](../characters/jon).
-
-## Accounts
-
-John owns a variety of social media accounts, including a Reddit account, a YouTube channel, and an Instagram account.
-
-| Service   | Username                                                                | Picture   | KB Page                        |
-|:---------:|:-----------------------------------------------------------------------:|:---------:|:------------------------------:|
-| YouTube   | [JohnDough](https://www.youtube.com/channel/UC0Ebq-NNBboBxy1fRrRj2cA)   | ![yt]     | [YouTube](../../youtube)       |
-| Reddit    | [u/johndough1983](https://www.reddit.com/user/johndough1983/)           | ![reddit] | [Reddit](../../reddit)         |
-| Instagram | [@capitalplacepizza](https://www.instagram.com/capitalplacepizza/)      | ![insta]  | n/a                            |
-| Twitter   | [@CapitalPlPizza](https://twitter.com/CapitalPlPizza)                   | ![twtr]   | n/a                            |
-| LensDump  | [John Dough](https://lensdump.com/capitalplpizza)                       | ![ldump]  | n/a                            |
-
-[yt]:../../assets/img/unnamed.jpg
-{:width="50px"}
-
-[reddit]:../../assets/img/profileIcon_886yhcqde7c41.jpg
-{:width="50px"}
-
-[insta]:../../assets/img/instapp.jpg
-{:width="50px"}
-
-[twtr]:../../assets/img/w4gp6hvi_200x200.jpg
-{:width="50px"}
-
-[ldump]:../../assets/img/av_1574291103.jpg
-{:width="50px"}
-
-## Relationship with Jon Doe
-
-See page: [Jon Doe](../characters/jon).
+<html>
+<head>
+    <script type="text/javascript">
+        window.location.replace("./#john");
+    </script>
+</head>
+<body>
+<p>This page has been relocated to <a href="./#john">this link</a>.</p>
+</body>
+</html>

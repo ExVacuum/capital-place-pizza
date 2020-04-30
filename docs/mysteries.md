@@ -1,8 +1,9 @@
 ---
-title: Contribute
-permalink: /contribute
-layout: default
-nav_order: 4
+title: Mysteries
+permalink: /mysteries
+layout: page
+order: 7
+icon: fa-question
 authors: ['exvacuum']
 ---
 
