@@ -28,13 +28,13 @@ The Dough Solvers are a volunteer organization of solvers dedicated to uncoverin
 </summary>
 <br>
 
-<img src="../assets/img/pyramids.jpg" style="width: 250px;">
+<img src=../assets/img/pyramids.jpg" style="width: 250px;">
 <br>
 
 The Pyramids are a recurring insignia in the ARG, and represent The Pyramids, an office building complex located in Indainapolis:
 <br>
 
-<img src="../assets/img/25911355371_bf2951c040_c.jpg" style="width:500px;">
+<img src=../assets/img/25911355371_bf2951c040_c.jpg" style="width:500px;">
 <br>
 
 Their relevance is currently unknown.
@@ -48,7 +48,7 @@ Their relevance is currently unknown.
 </summary>
 <br>
 
-<img src="../assets/img/2oct.jpg" style="width:500px;">
+<img src=../assets/img/2oct.jpg" style="width:500px;">
 
 <p>Two O&#39;Clock Twilight was an experimental musical group based in Indianapolis, of which the deceased <a href="../../lore/characters/daniel">Daniel Jaffke</a> was a member and vocalist.
 Their discography is featured multiple times throughout the videos posted to the <a href="../../youtube">YouTube channel</a>.</p>
