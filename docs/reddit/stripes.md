@@ -12,6 +12,6 @@ authors: ['exvacuum']
     </script>
 </head>
 <body>
-<p>This page has been relocated to <a href=".#stripes">this link</a>.</p>
+<p>This page has been relocated to <a href="../reddit#stripes">this link</a>.</p>
 </body>
 </html>
