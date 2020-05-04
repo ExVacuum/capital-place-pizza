@@ -8,10 +8,10 @@ authors: ['exvacuum']
 <html>
 <head>
     <script type="text/javascript">
-        window.location.replace(".#uvskate");
+        window.location.replace("../organizations#uvskate");
     </script>
 </head>
 <body>
-<p>This page has been relocated to <a href=".#uvskate">this link</a>.</p>
+<p>This page has been relocated to <a href="../organizations#uvskate">this link</a>.</p>
 </body>
 </html>

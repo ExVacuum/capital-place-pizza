@@ -8,10 +8,10 @@ authors: ['exvacuum']
 <html>
 <head>
     <script type="text/javascript">
-        window.location.replace(".#pope");
+        window.location.replace("../reddit#pope");
     </script>
 </head>
 <body>
-<p>This page has been relocated to <a href=".#pope">this link</a>.</p>
+<p>This page has been relocated to <a href="../reddit#pope">this link</a>.</p>
 </body>
 </html>

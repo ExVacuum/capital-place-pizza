@@ -12,6 +12,6 @@ authors: ['exvacuum']
     </script>
 </head>
 <body>
-<p>This page has been relocated to <a href=".#pyramids">this link</a>.</p>
+<p>This page has been relocated to <a href="../significant-things#pyramids">this link</a>.</p>
 </body>
 </html>

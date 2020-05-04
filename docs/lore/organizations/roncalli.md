@@ -8,10 +8,10 @@ authors: ['exvacuum']
 <html>
 <head>
     <script type="text/javascript">
-        window.location.replace(".#roncalli");
+        window.location.replace("../organizations#roncalli");
     </script>
 </head>
 <body>
-<p>This page has been relocated to <a href=".#roncalli">this link</a>.</p>
+<p>This page has been relocated to <a href="../organizations#roncalli">this link</a>.</p>
 </body>
 </html>
