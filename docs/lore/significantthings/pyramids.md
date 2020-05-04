@@ -8,7 +8,7 @@ authors: ['exvacuum']
 <html>
 <head>
     <script type="text/javascript">
-        window.location.replace(".#pyramids");
+        window.location.replace("../significant-things#pyramids");
     </script>
 </head>
 <body>
