@@ -8,10 +8,10 @@ authors: ['exvacuum']
 <html>
 <head>
     <script type="text/javascript">
-        window.location.replace("./#2oct");
+        window.location.replace(".#2oct");
     </script>
 </head>
 <body>
-<p>This page has been relocated to <a href="./#2oct">this link</a>.</p>
+<p>This page has been relocated to <a href=".#2oct">this link</a>.</p>
 </body>
 </html>

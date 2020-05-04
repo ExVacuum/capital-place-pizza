@@ -8,10 +8,10 @@ authors: ['exvacuum']
 <html>
 <head>
     <script type="text/javascript">
-        window.location.replace("./#pyramids");
+        window.location.replace(".#pyramids");
     </script>
 </head>
 <body>
-<p>This page has been relocated to <a href="./#pyramids">this link</a>.</p>
+<p>This page has been relocated to <a href=".#pyramids">this link</a>.</p>
 </body>
 </html>

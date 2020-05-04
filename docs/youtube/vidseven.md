@@ -9,10 +9,10 @@ authors: ['exvacuum']
 <html>
 <head>
     <script type="text/javascript">
-        window.location.replace("./#video-seven");
+        window.location.replace(".#video-seven");
     </script>
 </head>
 <body>
-<p>This page has been relocated to <a href="./#video-seven">this link</a>.</p>
+<p>This page has been relocated to <a href=".#video-seven">this link</a>.</p>
 </body>
 </html>
