@@ -171,7 +171,7 @@ Since the channel's inception, 19 public videos, along with 2 known unlisted vid
         I A B S O L U T E L Y L O V E I T W H E N Y O U G U Y S G I V E L O V E T O E R I K
         </p>
         
-        "I absolutely love it when you guys give love to Erik" is a quote from a <a href="https://channelingerik.com/more-love-for-our-boy/"><i>Channeling Erik</i> page</a>, where <a href="../lore/characters/daniel">Daniel Jaffke's</a> mother shares her endorsement.
+        "I absolutely love it when you guys give love to Erik" is a quote from a <a href="https://channelingerik.com/more-love-for-our-boy/"><i>Channeling Erik</i> page</a>, where <a href="https://evacuum.dev/capital-place-pizza/lore/characters/daniel">Daniel Jaffke's</a> mother shares her endorsement.
         
     </details>
     
