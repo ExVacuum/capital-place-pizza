@@ -31,13 +31,13 @@ The Dough Solvers are a volunteer organization of solvers dedicated to uncoverin
 <img src="../assets/img/pyramids.jpg" style="width: 250px;">
 <br>
 
-The Pyramids are a recurring insignia in the ARG, and represent The Pyramids, an office building complex located in Indainapolis:
+The Pyramids are a recurring insignia in the ARG, and represent The Pyramids, an office building complex located in Indianapolis (Thanks John):
 <br>
 
 <img src="../assets/img/25911355371_bf2951c040_c.jpg" style="width:500px;">
 <br>
 
-Their relevance is currently unknown.
+One of the Pyramids used to be home to the Art Institute of Indianapolis, but following the institute's closure in 2018 the College of Biblical Studies has become the currnent tenant.
 </details>
 
 ---
